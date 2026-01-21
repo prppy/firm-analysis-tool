@@ -9,7 +9,6 @@ NUMERIC_COLS = [
     "IT spend",
     "Lattitude",
     "Longitude",
-    "Company Sites"
 ]
 
 LOG_COLS = [
