@@ -1,0 +1,10 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# virtual environment folder
+venv/
+.env
+
+# Ignore compettion excel files
+*.xlsx
